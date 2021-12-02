@@ -13,3 +13,6 @@ Then, navigate to the repo folder in your local machine, and set up a virtual en
 ```
 pipenv install --skip-lock
 ```
+---
+
+![](/images/example_1.jpg)
